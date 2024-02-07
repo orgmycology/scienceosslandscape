@@ -1,4 +1,4 @@
-# scienceosslandscape
+# Science Open Source Software Landscape
 
 A landscape diagram of Open Source organizations in Science. If you see an organization that should be added, please file an issue with the name of the organization, a link to the logo, where you think it should go (which quadrant) and a rationale for it being included. 
 
