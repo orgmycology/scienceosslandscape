@@ -6,3 +6,208 @@
   url: https://www.python.org/psf-landing/
   logo: python.png
   description:
+- organization: Molecular Sciences Software Institute (MolSSI)
+  url: https://molssi.org/
+  logo: molssi.png
+  description:
+- organization: UK Software Sustainability Institute
+  url: https://www.software.ac.uk/
+  logo: ukssi.png
+  description: null
+- organization: Alan Turing Institute
+  url: https://www.turing.ac.uk/
+  logo: alan-turing-institute.png
+  description: null
+- organization: The Turing Way
+  url: https://the-turing-way.netlify.app/
+  logo: turing-way.png
+  description: null
+- organization: The Carpentries
+  url: https://carpentries.org/
+  logo: the-carpentries.png
+  description: null
+- organization: SustainOSS
+  url: https://sustainoss.org/
+  logo: sustainoss.png
+  description: null
+- organization: CHAOSS
+  url: https://chaoss.community/
+  logo: chaoss.png
+  description: null
+- organization: Julia Language
+  url: https://julialang.org/
+  logo: julia.png
+  description: null
+- organization: NumFOCUS
+  url: https://numfocus.org/
+  logo: numfocus.png
+  description: null
+- organization: Center for Scientific Collaboration and Community Engagement (CSCCE)
+  url: https://www.cscce.org/
+  logo: cscce.png
+  description: null
+- organization: rOpenSci
+  url: https://ropensci.org/
+  logo: ropensci.png
+  description: null
+- organization: pyOpenSci
+  url: https://www.pyopensci.org/
+  logo: pyopensci.png
+  description: null
+- organization: Open Life Science
+  url: https://openlifesci.org/
+  logo: open-life-science.png
+  description: null
+- organization: PyTorch
+  url: https://pytorch.org/
+  logo: pytorch.png
+  description: null
+- organization: Project Jupyter
+  url: https://jupyter.org/
+  logo: jupyter.png
+  description: null
+- organization: NumPy
+  url: https://numpy.org/
+  logo: numpy.png
+  description: null
+- organization: Stan
+  url: https://mc-stan.org/
+  logo: stan.png
+  description: null
+- organization: 2i2c
+  url: https://2i2c.org/
+  logo: 2i2c.png
+  description: null
+- organization: SciPy
+  url: https://scipy.org/
+  logo: scipy.png
+  description: null
+- organization: Matplotlib
+  url: https://matplotlib.org/
+  logo: matplotlib.png
+  description: null
+- organization: Astropy
+  url: https://www.astropy.org/
+  logo: astropy.png
+  description: null
+- organization: Bioconductor
+  url: https://www.bioconductor.org/
+  logo: bioconductor.png
+  description: null
+- organization: Research Software Alliance (ReSA)
+  url: https://www.researchsoft.org/
+  logo: resa.png
+  description: null
+- organization: American Astronomical Society
+  url: https://aas.org/
+  logo: american-astronomical-society.png
+  description: null
+- organization: Research Software Engineers (RSE)
+  url: https://researchsoftware.org/
+  logo: rse.png
+  description: null
+- organization: National Aeronautics and Space Administration (NASA)
+  url: https://www.nasa.gov/
+  logo: nasa.png
+  description: null
+- organization: American Physical Society (APS)
+  url: https://www.aps.org/
+  logo: aps.png
+  description: null
+- organization: American Chemical Society
+  url: https://www.acs.org/
+  logo: american-chemical-society.png
+  description: null
+- organization: American Geophysical Union (AGU)
+  url: https://www.agu.org/
+  logo: agu.png
+  description: null
+- organization: Institute of Electrical and Electronics Engineers (IEEE)
+  url: https://www.ieee.org/
+  logo: ieee.png
+  description: null
+- organization: Association for Computing Machinery (ACM)
+  url: https://www.acm.org/
+  logo: acm.png
+  description: null
+- organization: American Society for Microbiology
+  url: https://asm.org/
+  logo: american-society-for-microbiology.png
+  description: null
+- organization: American Association for the Advancement of Science (AAAS)
+  url: https://www.aaas.org/
+  logo: aaas.png
+  description: null
+- organization: Ecological Society of America
+  url: https://www.esa.org/
+  logo: ecological-society-of-america.png
+  description: null
+- organization: European Space Agency (ESA)
+  url: https://www.esa.int/
+  logo: european-space-agency.png
+  description: null
+- organization: Japan Aerospace Exploration Agency (JAXA)
+  url: https://www.jaxa.jp/
+  logo: jaxa.png
+  description: null
+- organization: American Psychological Association (APA)
+  url: https://www.apa.org/
+  logo: apa.png
+  description: null
+- organization: OSPO++
+  url: https://ospoplusplus.com/
+  logo: ospoplusplus.png
+  description: null
+- organization: US Research Software Sustainability Institute (URSSI)
+  url: https://urssi.us/
+  logo: urssi.png
+  description: null
+- organization: Academic Data Science Alliance
+  url: https://academicdatascience.org/
+  logo: academic-data-science-alliance.png
+  description: null
+- organization: Science Gateways Community Institute (SGCI)
+  url: https://sciencegateways.org/
+  logo: science-gateways-community-institute.png
+  description: null
+- organization: OpenAI
+  url: https://openai.com/
+  logo: openai.png
+  description: null
+- organization: Linux Foundation
+  url: https://www.linuxfoundation.org/
+  logo: linux-foundation.png
+  description: null
+- organization: Apache Software Foundation
+  url: https://www.apache.org/
+  logo: apache-software-foundation.png
+  description: null
+- organization: Mozilla Foundation
+  url: https://foundation.mozilla.org/
+  logo: mozilla-foundation.png
+  description: null
+- organization: Open Knowledge Foundation
+  url: https://okfn.org/
+  logo: open-knowledge-foundation.png
+  description: null
+- organization: Software Freedom Conservancy
+  url: https://sfconservancy.org/
+  logo: software-freedom-conservancy.png
+  description: null
+- organization: Electronic Frontier Foundation (EFF)
+  url: https://www.eff.org/
+  logo: electronic-frontier-foundation.png
+  description: null
+- organization: Creative Commons
+  url: https://creativecommons.org/
+  logo: creative-commons.png
+  description: null
+- organization: Internet Society (ISOC)
+  url: https://www.internetsociety.org/
+  logo: internet-society.png
+  description: null
+- organization: Free Software Foundation (FSF)
+  url: https://www.fsf.org/
+  logo: free-software-foundation.png
+  description: null
+
