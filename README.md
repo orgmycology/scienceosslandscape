@@ -6,6 +6,6 @@ For questions or other concerns, please reach out at jonah (at) orgmycology (dot
 
 This repo will house a machine generatable version of the below diagram:
 
-<img width="1274" alt="image" src="https://github.com/orgmycology/scienceosslandscape/assets/119403/81dbde3e-dea0-440f-877e-f170d60582f9">
+<img width="1274" alt="image" src="https://dropshare.duckles.nz/scienceoss.jpg">
 
 
